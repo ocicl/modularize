@@ -4,6 +4,6 @@ A modularization framework for Common Lisp
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shinmera/modularize.git |
-| commit  | 6b88186                                        |
+| commit  | 4e39906                                        |
 | systems | modularize                                     |
 |---------+------------------------------------------------|
